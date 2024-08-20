@@ -49,11 +49,6 @@
     "softwareId" : null,
     "type" : "videoProfile1"
   },
-  "credentials" : {
-    "credentialsId" : "aQaUsUNlgf08wjFSpg5g",
-    "credentialsType" : "ACCESS_TOKEN",
-    "credentialsValue" : null
-  },
   "relations" : [ ],
   "attributes" : {
     "SERVER_SCOPE" : [ {
